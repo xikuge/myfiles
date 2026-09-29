@@ -1,7 +1,3 @@
-dns.google 8.8.8.8 8.8.4.4
-raw.githubusercontent.com 2606:50c0:8000::154
-dns.nextdns.io 2a07:a8c1::
-dns.nextdns.io 2a07:a8c0::
 apps.corel.com 127.0.0.1
 mc.corel.com 127.0.0.1
 origin-mc.corel.com 127.0.0.1
